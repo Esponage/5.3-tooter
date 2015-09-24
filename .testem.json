@@ -12,7 +12,11 @@
   ],
 
   "launch_in_dev": [
+<<<<<<< HEAD
     "PhantomJS",
     "Chrome"
+=======
+    "PhantomJS"
+>>>>>>> 75ebe8b1dd617f4a530d6bdedd7bd888824979ff
   ]
 }

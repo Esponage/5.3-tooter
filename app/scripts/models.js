@@ -8,6 +8,7 @@ Post.fetch = function(){
   });
 };
 
+}
 
 
 window.Post = Post;

@@ -38,7 +38,10 @@
 You will need to install the `testem` command line program:
 
 ```sh
+<<<<<<< HEAD
 brew install phantomjs
+=======
+>>>>>>> 75ebe8b1dd617f4a530d6bdedd7bd888824979ff
 npm install -g testem
 ```
 

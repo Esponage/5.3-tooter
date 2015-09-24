@@ -31,3 +31,7 @@ $(document).on('create:post', function(){
     data: {title: title, body: body}
   });
 });
+  });
+
+  Post.fetch();
+});
